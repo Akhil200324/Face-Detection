@@ -1,10 +1,10 @@
 # Face-Detection
 
 ## Overview
-A Python project for detecting faces in images (and/or videos). This project utilizes [mention libraries, e.g., OpenCV, dlib, etc.] to perform face detection efficiently and accurately.
+A Python project for detecting faces in images. This project utilizes [mention libraries, e.g., OpenCV, dlib, etc.] to perform face detection efficiently and accurately.
 
 ## Features
-- Detect faces in images (and optionally, videos)
+- Detect faces in images
 - [Add any other key features, e.g., bounding boxes, real-time detection, etc.]
 - Easy-to-use command-line interface
 
@@ -32,7 +32,6 @@ python face_detection.py --image path/to/input.jpg
 |------------------|---------------------------------------|
 | `--image`        | Path to the input image               |
 | `--output`       | (Optional) Path to save output image  |
-| `--video`        | (Optional) Path to input video file   |
 
 ## Examples
 
@@ -48,8 +47,3 @@ python face_detection.py --image path/to/input.jpg
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-[MIT](LICENSE)  
-```
